@@ -1,0 +1,109 @@
+body{
+    font-family: 'Noto Serif', serif;
+    background-color: #F4F8FF;
+}
+
+
+/* container section style style*/
+.container{
+    background-color: white;
+    width:90%;
+     margin:0px auto;
+     box-sizing: border-box;
+}
+/* container section style end*/
+
+
+
+/*header section start*/
+header{
+    text-align: center;
+}
+
+
+.logo{
+    width: 200px;
+
+}
+
+/*header section start*/
+
+hr{
+    font-weight: bold;
+    border:3px sienna solid;
+    border-bottom: none;
+}
+
+/* main style start*/
+
+.banner{
+  margin-left:40px;
+    padding: 10px;
+    width:1100px;
+}
+
+.fast-para{
+    text-align: justify;
+    padding:0px 50px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.iframe{
+    padding:0px 200px ;
+}
+h3{
+    text-align: center;
+}
+
+.two_towers{
+    text-align: justify;
+    padding:0px 50px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.return{
+    text-align: justify;
+    padding:0px 50px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+
+ol li {
+    list-style-type:upper-roman;
+}
+ol li a{
+    text-decoration: none;
+}
+
+.last{
+    padding:10px;
+
+}
+.awards{
+    
+        border: solid 1px black;
+        width: fit-content;
+        height: max-content;
+      
+}
+
+footer{
+    text-align: center;
+}
+ ol li a:hover{
+    background-color: black ;
+ }
+
+
+ table, th, td {
+    border: 1px solid black;
+   
+  }
+.nominated{
+    background-color: #FFE3E3 ;
+}
+.won{
+ background-color: #9EFF9E;
+}
+/* main style end*/
